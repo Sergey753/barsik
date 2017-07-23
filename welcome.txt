@@ -1,3 +1,3 @@
 print("dog")
 print("stone")
-Print("box")
+print("box")
