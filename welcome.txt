@@ -1,2 +1,3 @@
 print("dog")
 print("stone")
+print("star")
