@@ -1,5 +1,9 @@
-print("dog")
-print("stone")
-print("box")
-print("hello my dear frind")
-print("glad ti see you")
+
+print("dog;")
+print("stone;")
+print("box;")
+print("hello my dear frind;")
+print("glad ti see you;")
+
+
+
